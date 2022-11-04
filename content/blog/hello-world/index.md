@@ -1,6 +1,7 @@
 ---
 title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+createdDate: "2015-05-01T22:12:03.284Z"
+updatedDate: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
 ---
 
