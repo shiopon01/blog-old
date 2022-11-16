@@ -3,6 +3,7 @@ const { google } = require("googleapis");
 const { parse } = require("node-html-parser");
 const matter = require("gray-matter");
 const TurndownService = require("turndown");
+const dayjs = require("dayjs");
 
 async function main({ googleDriveFolderId, outputDirectoryPath }) {
   const drive = google.drive({
@@ -60,10 +61,10 @@ async function writeExportedFiles({ exportedFiles, outputDirectoryPath }) {
       return;
     }
     const { body, title } = convertHtml(exportedFile.html);
-    const created = new Date(regex.exec(exportedFile.name)[0]);
-    const createdDate = created.getFullYear() + '-' + (created.getMonth() + 1) + '-' + created.getDate();
-    const updated = new Date(exportedFile.modifiedTime);
-    const updatedDate = updated.getFullYear() + '-' + (updated.getMonth() + 1) + '-' + updated.getDate();
+    const created = dayjs(regex.exec(exportedFile.name)[0]);
+    const createdDate = created.format();
+    const updated = dayjs(exportedFile.modifiedTime);
+    const updatedDate = updated.format();
 
     await createDirectory({ outputDirectoryPath: `${outputDirectoryPath}/${exportedFile.name}` });
     await fsPromises.writeFile(

@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@actions/core": "^1.10.0",
+    "dayjs": "^1.11.6",
     "gatsby": "^4.24.5",
     "gatsby-plugin-feed": "^4.24.0",
     "gatsby-plugin-image": "^2.24.0",
