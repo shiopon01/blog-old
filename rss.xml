@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[shiopon01 Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 17 Nov 2022 01:26:36 GMT</lastBuildDate><item><title><![CDATA[サンプル記事]]></title><description><![CDATA[見出し１ テキスト 見出し２ テキスト — 太字 斜線 リスト１ リスト２ ```js test ```  ```js function test() {   console.log(123) } ``` Red color end.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-11-05-sample-article/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-11-05-sample-article/</guid><content:encoded>&lt;h1&gt;見出し１&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[shiopon01 Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 17 Nov 2022 14:17:58 GMT</lastBuildDate><item><title><![CDATA[サンプル記事]]></title><description><![CDATA[見出し１ テキスト 見出し２ テキスト２ テキスト１ 太字 斜線 リスト１ リスト２ ```js test ``` test ruby codeblock a b c 123 14 123 ```js function test() {   console.log(12…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-12-01-yo/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-12-01-yo/</guid><content:encoded>&lt;h1&gt;見出し１&lt;/h1&gt;
 &lt;p&gt;テキスト&lt;/p&gt;
 &lt;h2&gt;見出し２&lt;/h2&gt;
-&lt;p&gt;テキスト&lt;/p&gt;
-&lt;p&gt;—&lt;/p&gt;
+&lt;p&gt;テキスト２&lt;/p&gt;
+&lt;p&gt;テキスト１&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;太字&lt;/p&gt;
 &lt;p&gt;斜線&lt;/p&gt;
 &lt;ul&gt;
@@ -12,18 +13,66 @@
 &lt;p&gt;```js&lt;/p&gt;
 &lt;p&gt;test&lt;/p&gt;
 &lt;p&gt;```&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://lh6.googleusercontent.com/FGB8YpWZ2RD9NXgHrKpo_HeNLEFQtytdhRa6T6owFUUX7t7uJ6UHUgkSFfCHFx40NC721uVuHOb3fpSEbKNFvCX5tu9F9RPT0prvPO3tKtCKGzBHB5AinjW2tY69OEyj-jdSBgiW0fRZT4e9dsOmvn8Bk4fk6kC_Qroz1qE_TxqdHjEBVzGZgHLpLrTb&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+&lt;p&gt;test ruby codeblock&lt;/p&gt;
+&lt;p&gt;a&lt;/p&gt;
+&lt;p&gt;b&lt;/p&gt;
+&lt;p&gt;c&lt;/p&gt;
+&lt;p&gt;123&lt;/p&gt;
+&lt;p&gt;14&lt;/p&gt;
+&lt;p&gt;123&lt;/p&gt;
 &lt;p&gt;```js&lt;/p&gt;
 &lt;p&gt;function test() {&lt;/p&gt;
 &lt;p&gt;  console.log(123)&lt;/p&gt;
 &lt;p&gt;}&lt;/p&gt;
 &lt;p&gt;```&lt;/p&gt;
-&lt;p&gt;Red color&lt;/p&gt;
-&lt;p&gt;end.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[こんにちは]]></title><description><![CDATA[たまごかけごはん にんじん]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-08-31-helloworld/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-08-31-helloworld/</guid><content:encoded>&lt;p&gt;たまごかけごはん&lt;/p&gt;
-&lt;p&gt;にんじん&lt;/p&gt;</content:encoded></item><item><title><![CDATA[あああ]]></title><description><![CDATA[いいい ううう テスト テスト ああ # タイトル タイトル]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-05-05-foobar/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-05-05-foobar/</guid><content:encoded>&lt;p&gt;いいい&lt;/p&gt;
-&lt;p&gt;ううう&lt;/p&gt;
-&lt;p&gt;テスト&lt;/p&gt;
-&lt;p&gt;テスト&lt;/p&gt;
-&lt;p&gt;ああ&lt;/p&gt;
-&lt;p&gt;# タイトル&lt;/p&gt;
-&lt;p&gt;タイトル&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;
+      &lt;div class=&quot;gria-image-wrapper&quot; style=&quot;
+        position: relative;
+        overflow: hidden;
+        
+      &quot;&gt;
+      
+        
+          &lt;div class=&quot;gria-image-padding&quot; style=&quot;
+        width: 100%;
+        padding-bottom: 100%;
+      &quot;&gt;&lt;/div&gt;
+        
+        
+      
+      &lt;div
+        class=&quot;gria-image-placeholder&quot;
+        style=&quot;
+          
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+
+          background: #fff url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABYlAAAWJQFJUiTwAAADRUlEQVQ4y4WUX0xTVxzH++rTREHHP8lAs8QHExMSX5apy0wW3Xzcw3xZ4suyPSiKIS6zjbNC2lKpcRGNYWpwOAlzahUIf6ySokPBlAkV0GSlLf9uC9gy1NJ7zmfppYWWUneSm3tvzjnf8/3z+x0dEhKPFBIZe6uC2Aj4PXie92rf6kKEhXfvltdpayXJ+2OPLgVQLi6Mjfm5Oa4d3UdLwwWCr9/QWFvF7HRQmxOxA+PAGQETk1JVtU3u5l+5p9/Dn78cx2XZT0P554z83afNkTg4mW38X7dSMnFA5/ljDN88jvv6IaKGNWDJx2/ciqu1Ac0QIVCjagpoGsOEd5P/DOM2bCd8/hPCdXvBVsLNgwU8OfIRNw6sw2S7SGJINUm2WCk5diowcstK1LgOzhQRNW+CCyWYvtrA9zvz8Bo2ceWbQrovVdDzpC8OKlZnGPMmIuBV/WFEZQ7C9jFqzWawFhAwFvOiokCTPn+ulCb9fux37i6FtDqgEEQBT5Me1ZiFrNmCOFOCtOSDZQNvzMUM1x3Aea+WkZGBtIDSJCcS9nb9zvzJLKgp1gAx5TB6ehtDbVb6+9pQpqbivqWmnTEUZcyPz7wDqgvAWsTsqUJ8jy7yVnnIo7bfcLS3Egws1mRywivKRi7JXogFU1+ONOeCORe/7VPejnciptroab/E8/4+hCrTSub9hW2vZcaQg6xcj/fGd6jTXTB9n+lXdgKTvjg7seRd5taLAz5ubsRbsZbgyQ9xt1oh5IRAJ8GhJl4O/JUiN7mndclFKZMYDjkamTVkM6HPxffQBuFuUDpYGG/B/aydSERdtZ9TQ9E8VLXi9v2h5/WJD3D/tIUJ1zXUgAOpdECwndHBVkKhuWWWqzKU8VsEmFBmcFV+RsiQzTNDKZ7eesKeFgg4NMCxgTv8O7cMmJGh1uzA5ctX2LhGx+2D+SjGzXjsP8KsE6nchxkHZd/uxX7bvnhPRtXMKScYlpUdQafT8eCHPDCtZ7DhMCLcA8EOQp5mvtizm6tX6/8fMMHwQddjbF8XQfVGRFU2zhM7GOo8S2SyE6/rOq6nzvS2e5+Ho36F3lO7wJQFljyip3MY/LmU/pov6a4rZ9Q3vnTLrEz6P0fwh4CoX0z9AAAAAElFTkSuQmCC) center / cover no-repeat;
+        &quot;
+      &gt;&lt;/div&gt;
+    
+    &lt;picture&gt;
+      &lt;source srcset=&quot;/static/1cdac9058bc8503531d1d6e7ef2edd5e/103b3/-5q_q5cTirPo6vv0PSD9lxsKJen7cTfY1nhD3vVuWDhf6noo3xsB4ZF5CLZn_HgDT4LrIHM1WRdQyDm0das4vWRIOtxRHzuIb-6XqBuWxhijRppgIUGhLmVfCwcG033D3FiZnt28pXs1wh02Dvc0Bs6H5Q1iM7Rv4CXbH4i69ov7aYT9jT2VKkOAzYno.png 32w&quot;&gt;
+      &lt;img
+        class=&quot;gria-image&quot;
+        src=&quot;/static/1cdac9058bc8503531d1d6e7ef2edd5e/103b3/-5q_q5cTirPo6vv0PSD9lxsKJen7cTfY1nhD3vVuWDhf6noo3xsB4ZF5CLZn_HgDT4LrIHM1WRdQyDm0das4vWRIOtxRHzuIb-6XqBuWxhijRppgIUGhLmVfCwcG033D3FiZnt28pXs1wh02Dvc0Bs6H5Q1iM7Rv4CXbH4i69ov7aYT9jT2VKkOAzYno.png&quot;
+        srcset=&quot;/static/1cdac9058bc8503531d1d6e7ef2edd5e/103b3/-5q_q5cTirPo6vv0PSD9lxsKJen7cTfY1nhD3vVuWDhf6noo3xsB4ZF5CLZn_HgDT4LrIHM1WRdQyDm0das4vWRIOtxRHzuIb-6XqBuWxhijRppgIUGhLmVfCwcG033D3FiZnt28pXs1wh02Dvc0Bs6H5Q1iM7Rv4CXbH4i69ov7aYT9jT2VKkOAzYno.png 32w&quot;
+        title=&quot;&quot;
+        alt=&quot;&quot;
+        loading=&quot;lazy&quot;
+        style=&quot;
+          
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+
+          object-fit: cover;
+          object-position: center center;&quot;
+      &gt;
+    &lt;/picture&gt;
+  
+      &lt;/div&gt;
+    &lt;/p&gt;</content:encoded></item></channel></rss>
