@@ -35,6 +35,7 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 630,
+              wrapperStyle: 'margin-bottom:10px; background: red;',
             },
           },
           {
@@ -46,6 +47,7 @@ module.exports = {
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
+          `gatsby-remark-images-anywhere`,
         ],
       },
     },
